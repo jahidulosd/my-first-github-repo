@@ -8,6 +8,12 @@ p{
     font-size: 30px;
     font-family: cursive;
     border: 2px solid navy;
+}
+#you{
+    color: chartreuse;
+}
 
-
+#ul{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
